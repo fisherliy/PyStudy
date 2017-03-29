@@ -25,3 +25,4 @@ Updater (Installer only):
 * WinGup v4.1
 
 Add Some word
+New branch
